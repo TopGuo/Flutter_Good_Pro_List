@@ -27,8 +27,6 @@
 ,原项目版本过旧，新项目重构后，可以完美运行
 
 ![](https://github.com/TopGuo/flutter_boss_v1.0/blob/master/bossapp/doc/shothot/4.gif?raw=true)
-![](https://github.com/TopGuo/flutter_boss_v1.0/raw/master/bossapp/doc/shothot/2.gif?raw=true)
-![](https://github.com/TopGuo/flutter_boss_v1.0/raw/master/bossapp/doc/shothot/5.gif?raw=true)
 
 ### flutter_news
 >GitHub地址
@@ -38,8 +36,6 @@
 
 News application developed for practice, learning and testing the potential of this powerful Framework.
 ![](https://github.com/RafaelBarbosatec/flutter_news/raw/master/imgs/print1_ios.png)
-![](https://github.com/RafaelBarbosatec/flutter_news/blob/master/imgs/img2.png)
-![](https://github.com/RafaelBarbosatec/flutter_news/blob/master/imgs/print_ios.png)
 
 ### flutter_layout
 >GitHub地址
@@ -52,9 +48,7 @@ CustomScrollView	SliverFixedExtentList,SliverList	Expanded,Padding	Image.asset
 Nested ListView	SliverFillViewport	SizedBox	
 GridView	--	Center
 
-![](https://github.com/nb312/flutter_layout/raw/master/screenshots/hero_screen.png)
 ![](https://github.com/nb312/flutter_layout/raw/master/screenshots/flutter_layout.gif)
-![](https://github.com/nb312/flutter_layout/raw/master/screenshots/list_screen_1.png)
 
 
 
