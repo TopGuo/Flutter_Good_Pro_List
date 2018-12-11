@@ -18,6 +18,47 @@
 
 ## Flutter 项目
 
+### flutter_boss_v1.0
+>GitHub地址
+[](https://github.com/TopGuo/flutter_boss_v1.0)
+
+`该项目是基于网上大佬9个月前公布的仿boss直聘app进行的v1.0版本的重构`
+
+,原项目版本过旧，新项目重构后，可以完美运行
+
+![](https://github.com/TopGuo/flutter_boss_v1.0/blob/master/bossapp/doc/shothot/4.gif?raw=true)
+![](https://github.com/TopGuo/flutter_boss_v1.0/raw/master/bossapp/doc/shothot/2.gif?raw=true)
+![](https://github.com/TopGuo/flutter_boss_v1.0/raw/master/bossapp/doc/shothot/5.gif?raw=true)
+
+### flutter_news
+>GitHub地址
+[flutter_news](https://github.com/RafaelBarbosatec/flutter_news)
+
+`新闻应用程序开发用于实践,学习和测试Flutter框架的潜力。`
+
+News application developed for practice, learning and testing the potential of this powerful Framework.
+![](https://github.com/RafaelBarbosatec/flutter_news/raw/master/imgs/print1_ios.png)
+![](https://github.com/RafaelBarbosatec/flutter_news/blob/master/imgs/img2.png)
+![](https://github.com/RafaelBarbosatec/flutter_news/blob/master/imgs/print_ios.png)
+
+### flutter_layout
+>GitHub地址
+[](https://github.com/nb312/flutter_layout)
+
+`Page view	SliverPersistentHeader	Row,Column,CrossAxisAlignment	InkWell`
+
+ListView	SliverGrid	Stack	Shadow
+CustomScrollView	SliverFixedExtentList,SliverList	Expanded,Padding	Image.asset
+Nested ListView	SliverFillViewport	SizedBox	
+GridView	--	Center
+
+![](https://github.com/nb312/flutter_layout/raw/master/screenshots/hero_screen.png)
+![](https://github.com/nb312/flutter_layout/raw/master/screenshots/flutter_layout.gif)
+![](https://github.com/nb312/flutter_layout/raw/master/screenshots/list_screen_1.png)
+
+
+
+
 ## 纯dart件包
 
 ## 插件包
