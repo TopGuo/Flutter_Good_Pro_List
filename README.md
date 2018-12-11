@@ -20,7 +20,7 @@
 
 ### flutter_boss_v1.0
 >GitHub地址
-[GitHub地址](https://github.com/TopGuo/flutter_boss_v1.0)
+[flutter_boss_v1](https://github.com/TopGuo/flutter_boss_v1.0)
 
 `该项目是基于网上大佬9个月前公布的仿boss直聘app进行的v1.0版本的重构`
 
@@ -39,7 +39,7 @@ News application developed for practice, learning and testing the potential of t
 
 ### flutter_layout
 >GitHub地址
-[GitHub地址](https://github.com/nb312/flutter_layout)
+[flutter_layout](https://github.com/nb312/flutter_layout)
 
 `Page view	SliverPersistentHeader	Row,Column,CrossAxisAlignment	InkWell`
 
