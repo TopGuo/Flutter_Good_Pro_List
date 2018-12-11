@@ -25,8 +25,8 @@
 ## 优秀blog/简书/掘金...推荐
 
 ### flutter-study
-
- github 地址 [](https://github.com/yang7229693/flutter-study)
+>github 地址
+ [github 地址](https://github.com/yang7229693/flutter-study)
 
 `Flutter - 不一样的跨平台解决方案`
 
@@ -48,7 +48,8 @@ Flutter 动画详解（一）
 Flutter 动画详解（二）
 
 ### Sky24n
-简书地址 [](https://www.jianshu.com/p/9e5cc4ba3a8e)
+>简书地址 
+[简书地址](https://www.jianshu.com/p/9e5cc4ba3a8e)
 
 `一个完整的Flutter APP项目`
 
