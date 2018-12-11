@@ -25,9 +25,11 @@
 ## 优秀blog/简书/掘金...推荐
 
 ### flutter-study
+
 > github 地址 [](https://github.com/yang7229693/flutter-study)
 
 `Flutter - 不一样的跨平台解决方案`
+
 Flutter Plugin开发流程
 Flutter 布局详解
 现有项目中集成Flutter
@@ -47,7 +49,8 @@ Flutter 动画详解（二）
 
 ### Sky24n
 >简述地址 [](https://www.jianshu.com/p/9e5cc4ba3a8e)
-一个完整的Flutter APP项目
+
+`一个完整的Flutter APP项目`
 Flutter 启动页+闪屏广告页+引导页  
 Flutter 圆形/圆角头像
 Dart    常用工具类库common_utils  
