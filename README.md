@@ -8,11 +8,11 @@
 > 学无先后，达者为师 => Flutter Go!
 ## 目录索引结构大致如下
 
->- --Root
->-   |-- Flutter项目
->-   |-- 纯dart包
->-   |-- 插件包
->-   |-- 优秀blog/简书/掘金...推荐
+>- |--Root
+>-     |-- Flutter项目
+>-     |-- 纯dart包
+>-     |-- 插件包
+>-     |-- 优秀blog/简书/掘金...推荐
 
 ![](https://github.com/TopGuo/Flutter_Good_Pro_List/blob/master/doc/1.jpg?raw=true)
 
