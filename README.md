@@ -55,13 +55,67 @@ GridView	--	Center
 
 ## 纯dart件包
 
+### common_utils
+>github 地址
+[common_utils](https://github.com/Sky24n/common_utils)
+
+> 推荐语：有人为我们开源出一些常用类库省的我们自己造轮子，且行切珍惜，如果有需要的地方，包里没有，
+> 可以pr,让大家一起来维护
+
+`Dart常用工具类库 common_utils`
+
+1、TimelineUtil : 时间轴.(新)
+2、TimerUtil : 倒计时，定时任务.(新)
+3、MoneyUtil : 精确转换，元转分，分转元，支持格式输出.(新)
+4、LogUtil : 简单封装打印日志.(新)
+5、DateUtil : 日期转换格式化输出.
+6、RegexUtil : 正则验证手机号，身份证，邮箱等等.
+7、NumUtil : 保留x位小数, 精确加、减、乘、除, 防止精度丢失.
+8、ObjectUtil : 判断对象是否为空(String List Map),判断两个List是否相等.
+
+### flustars
+>githubadress
+[flustars](https://github.com/Sky24n/flustars)
+
+> 该库的源码我没有详细看，只是做启动页的时候用到了SpUtil 在这里也给大家推荐
+
+`ScreenUtil不依赖context获取屏幕数据,新增MyAppBar,不需要GlobalKey就能openDrawer`
+
+1、SpUtil : SharedPreferences 工具类.
+2、ScreenUtil : 获取屏幕宽、高、密度，AppBar高，状态栏高度，屏幕方向.
+3、WidgetUtil : 获取Widget宽高，在屏幕上的坐标.
+
+### lpinyin 
+> GitHubadress
+[lpinyin](https://github.com/flutterchina/lpinyin)
+
+`lpinyin是一个汉字转拼音的Dart package.`
+
+①准确、完善的字库
+②拼音转换速度快
+③支持多种拼音输出格式：带音标、不带音标、数字表示音标以及拼音首字母输出格式
+④支持常见多音字的识别，其中包括词组、成语、地名等
+⑤简繁体中文转换
+⑥支持添加用户自定义字典
+
+### flukit 
+> githubadress
+[flukit](https://github.com/flutterchina/flukit)
+
+> 这里我只是将其中的swiper源码抽出来放到项目里
+
+`flukit （Flutter UI Kit）是一个Flutter Widget库。`
+
+注意:
+本项目正在开发中，目前没有稳定版，我们暂时不建议您在生产中使用，欢迎大家贡献代码。
+
 ## 插件包
 
 ## 优秀blog/简书/掘金...推荐
 
 ### flutter-study
 >github 地址
- [github 地址](https://github.com/yang7229693/flutter-study)
+ [flutter-study](https://github.com/yang7229693/flutter-study)
 
 `Flutter - 不一样的跨平台解决方案`
 
