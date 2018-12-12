@@ -28,6 +28,73 @@
 
 ![](https://github.com/TopGuo/flutter_boss_v1.0/blob/master/bossapp/doc/shothot/4.gif?raw=true)
 
+### flutter_study 
+> githubaddress
+[flutter_study](https://github.com/luhenchang/flutter_study)
+
+`啥也不多说，这位大佬号称三天学会flutter开发`
+
+![flutter_study](https://github.com/luhenchang/IMAGE/blob/master/program_ios1.gif?raw=true)
+
+### PullToRefresh
+>githubaddress
+
+`本功能只实现基本的上下拉刷新，可在这个基础上进行改进、优化、封装，`
+
+如果只是使用，可在build方法中修改ListView控件和List数组的泛型,已经兼容IOS，已经支持对下拉和上拉的分别控制
+
+![githubaddress](https://raw.githubusercontent.com/baoolong/PullToRefresh/master/demonstrationgif/20181023_90359.gif)
+
+`模仿的京东潮男模块的广告滑动切换，本人做的比较粗糙，大家可以在此基础上改进，`
+
+比如滞后滑动，底层图片缩小等，由于没有进行屏幕适配，所以可能不同的手机会显示很丑，这是由于我在设计图片之间的Magin是用屏幕宽度减去两边距屏幕的宽度，再除以3计算的，大家可以根据需要去设定图片之间的Magin，最好固定值
+
+![githubaddress](https://raw.githubusercontent.com/baoolong/PullToRefresh/master/demonstrationgif/20180814_142135.gif)
+
+`采用ListView绘制，将ListView设置为不可`
+
+手动滑动，然后启动Timer来回拖动，造成跑马灯的错觉 
+
+![githubaddress](https://raw.githubusercontent.com/baoolong/PullToRefresh/master/demonstrationgif/20180814_142220.gif)
+
+### flutter_easyrefresh 
+> github base
+[flutter_easyrefresh](https://github.com/xuelongqy/flutter_easyrefresh)
+
+> 这个项目文档比较工整，看来作者想好好玩一下
+
+`正如名字一样，EasyreFresh很容易就能在Flutter应用上实现下拉刷新以及上拉加载操作，它支持几乎所有的Flutter控件，但前提是需要包裹成ScrollView。它的功能与Android的SmartRefreshLayout很相似，同样也吸取了很多三方库的优点。EasyreFresh中集成了多种风格的Header和Footer，但是它并没有局限性，你可以很轻松的自定义。使用Flutter强大的动画，甚至随便一个简单的控件也可以完成。EasyreFresh的目标是为Flutter打造一个强大，稳定，成熟的下拉刷新框架`
+
+支持Andorid(光晕)，ios(越界回弹)效果
+支持任意的ScrollView控件，如果不是进行简单封装即可(所以理论是所有控件)
+支持自定义并且已经集成了很多炫酷的 Header 和 Footer
+支持下拉刷新、上拉加载(可自动)
+支持 Header 和 Footer 列表嵌入以及视图浮动两种形式
+
+![flutter_easyrefresh](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/art/image/float.gif)
+
+### cool_ui 
+> github base 
+[cool_ui](https://github.com/TopGuo/cool_ui)
+
+> 吐槽，作者给这套东西起名叫cool ui，那是不是很酷呢？
+
+`用flutter实现一些我认为好看的UI控件希望大家提一些觉得不错的控件,我自己一个人想有时候想到的比较有限`
+
+仿iOS的UIPopover效果的
+用于弹窗的按钮
+
+![CupertinoPopoverButton]
+(https://github.com/TopGuo/cool_ui/raw/master/documents/images/popover_demo.gif)
+
+仿Weui的Toast效果
+
+![仿Weui的Toast效果](https://github.com/TopGuo/cool_ui/raw/master/documents/images/toast_demo.gif)
+
+自定义键盘使用方法快速入门
+
+![自定义键盘使用方法快速入门](https://github.com/TopGuo/cool_ui/raw/master/documents/images/custom_keyboard.gif)
+
 ### flutter_news
 >GitHub地址
 [flutter_news](https://github.com/RafaelBarbosatec/flutter_news)
