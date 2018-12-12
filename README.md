@@ -6,6 +6,13 @@
 > 项目会持续保持跟新，同时希望大家把自己觉得不错的项目，PR到该项中，或者直接Issue
 
 > 学无先后，达者为师 => Flutter Go!
+
+### 文档持续跟新，持续淘汰不合格的项目，最终目的，本项目只收录百星项目
+
+> qq交流群 付费 可加
+
+![qq交流群 付费 可加](https://github.com/TopGuo/Flutter_Good_Pro_List/blob/master/doc/qqQun.jpg?raw=true)
+
 ## 目录索引结构大致如下
 
 >- |--Root
