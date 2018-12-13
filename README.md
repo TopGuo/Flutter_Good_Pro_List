@@ -25,6 +25,41 @@
 
 ## Flutter 项目
 
+### fluwx 
+>github base
+[fluwx](https://github.com/TopGuo/fluwx)
+
+`微信全家桶`
+文本分享。
+网站分享。
+图片分享。
+音乐分享。
+视频分享。
+小程序分享。
+发送Auth认证（登录）。
+支付。
+拉起小程序。
+
+### sy_flutter_alipay
+>github base
+[sy_flutter_alipay](https://github.com/TopGuo/sy_flutter_alipay)
+
+`支付宝flutter插件`
+
+### sy_flutter_widgets
+>github base
+[sy_flutter_widgets](https://github.com/lishuhao/sy_flutter_widgets)
+
+`纯flutter Widget组件库，不依赖Native及其它第三方package。`
+包括省市区选择器，Rate评分，Stepper步进器，照片墙，地址编辑，自带加载更多的ListView和GridView
+
+![sy_flutter_widgets](https://raw.githubusercontent.com/lishuhao/sy_flutter_widgets/master/example/images/edit_address.jpg)
+
+### Widget flutter 开源项目集合
+>base 
+[Widget flutter](https://itsallwidgets.com/)
+
+
 ### flutter_boss_v1.0
 >GitHub地址
 [flutter_boss_v1](https://github.com/TopGuo/flutter_boss_v1.0)
@@ -185,7 +220,42 @@ GridView	--	Center
 
 ## 插件包
 
+
+
+### video_player
+>pubbase
+[video_player](https://pub.dartlang.org/packages/video_player)
+
+`Flutter官方的视频库（也可以用于直播），用于在Android和iOS上与其他`
+
+Flutter窗口小部件一起显示内嵌视频。支持主流直播流。该库底层使用的ExoPlayer播放器。更多关于ExoPlayer播放器支持的视频格式资料请看官方文档ExoPlayer播放器支持的视频格式
+
+
+### video_launcher	0.3.0	
+>pubbase
+[pubbase](https://pub.dartlang.org/packages/video_launcher)
+
+`视频播放器`
+	
+### flute_music_player	0.0.6	
+>pub base
+[flute_music_player](https://pub.dartlang.org/packages/flute_music_player)
+
+`基于Flutter的材料设计音乐播放器与音频插件播放本地音乐文件.`
+
+### audioplayer	0.5.0	
+>pubbase 
+[](https://pub.dartlang.org/packages/audioplayer)
+
+`一个播放远程或本地音频文件Flutter音频插件`	
+
 ## 优秀blog/简书/掘金...推荐
+
+### Flutter的需要与原生交互的一些常用库
+>github base
+[Flutter的需要与原生交互的一些常用库](https://github.com/AweiLoveAndroid/Flutter-learning/blob/master/readme/)
+
+`这个readme真是太详细了 强烈推荐`
 
 ### flutter-study
 >github 地址
@@ -225,6 +295,26 @@ Flutter 时间轴工具类TimelineUtil
 Flutter 国际化/多语言库 fluintl
 Flutter 单例"同步"SharedPreferences工具类 SpUtil
 Flutter 常用工具类库flustars
+
+
+### Flutter 一些常用库 
+
+> 博客园地址
+[Flutter 一些常用库 ](https://www.cnblogs.com/yangyxd/articles/9232308.html)
+
+` 注：版本号会随时间更新，请自行修改。本文集合了 Flutter-learning 中的内容，感谢原作者阿韦(https://github.com/AweiLoveAndroid/Flutter-learning)。转载请注明出处。`
+
+### Flutter-learning
+>github base
+[Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning)
+
+`这个库主要是一些Flutter学习资料，个人总结，项目示例代码。如果你想快速学习Flutter，欢迎查看这个库，对你很有帮助的。喜欢的话就给个Star，谢谢。欢迎大家多提意见，帮忙完善这个库。如果有问题，欢迎提issue。想与我联系请看文档最后的联系方式。感谢大家支持！`
+
+### 咸鱼技术说 
+>简书地址
+[咸鱼技术说](https://www.jianshu.com/u/cf5c0e4b1111)
+
+`flutter 提升看的好文章`
 
 
 
