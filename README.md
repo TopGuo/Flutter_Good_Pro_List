@@ -25,6 +25,18 @@
 
 ## Flutter 项目
 
+### flutter影视APP
+> github base
+[flutter影视APP](https://github.com/onemengxin/FlutterMovieApp?tdsourcetag=s_pctim_aiomsg)
+
+`萌新的第一个flutter应用，仿的一个叫neets的应用`，
+没在iOS上测试过（买不起苹果系，你打我？）播放页可能会有问题，没啥技术含量，因为第一次写，代码写的有点蠢，大佬别笑emmm
+
+目前完成了首页，类别，我的，播放页，关于，免责。
+
+个人中心，登录/注册，设置，反馈，搜索，播放记录还没做，播放页切换集数还没写完（完全没动力，瘫痪在天桥底下）
+
+![flutter影视APP](https://camo.githubusercontent.com/0b0b2a0c9de0e52d102117ce50aabc0bdb950e59/687474703a2f2f696d672e6d6f7669652e6170702e62746565652e636f6d2f686f6d652e6a7067)
 ### fluwx 
 >github base
 [fluwx](https://github.com/TopGuo/fluwx)
