@@ -177,6 +177,22 @@ GridView	--	Center
 
 ## 纯dart件包
 
+### flutter_spinkit
+>github base
+[flutter_spinkit](https://github.com/jogboms/flutter_spinkit)
+
+`加载等待框`
+
+![flutter_spinkit](https://raw.githubusercontent.com/jogboms/flutter_spinkit/master/screenshots/FadingFour.gif)
+
+### flutter_dropdown_menu
+>github base
+[flutter_dropdown_menu](https://github.com/best-flutter/flutter_dropdown_menu)
+
+`下拉菜单`
+
+![flutter_dropdown_menu](https://github.com/jzoom/images/raw/master/dropdown_menu2.gif)
+
 ### common_utils
 >github 地址
 [common_utils](https://github.com/Sky24n/common_utils)
@@ -232,6 +248,18 @@ GridView	--	Center
 本项目正在开发中，目前没有稳定版，我们暂时不建议您在生产中使用，欢迎大家贡献代码。
 
 ## 插件包
+
+### flutter_amap
+>flutter_amap
+[flutter_amap](https://github.com/best-flutter/flutter_amap)
+
+`高德地图组件，获取定位，监听定位，导航`
+
+### url_launcher
+>url_launcher
+[url_launcher](https://github.com/flutter/plugins)
+
+`A Flutter plugin for launching a URL in the mobile platform. Supports iOS and Android.`
 
 
 
@@ -335,6 +363,12 @@ Flutter 常用工具类库flustars
 [咸鱼技术说](https://www.jianshu.com/u/cf5c0e4b1111)
 
 `flutter 提升看的好文章`
+
+### gradle 问题查找最快解决文档
+
+[问题查找最快解决文档](https://gradle.org/help/)
+
+`遇到gradle问题这里是查找解决之道的有效途径`
 
 
 
